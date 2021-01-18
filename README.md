@@ -17,8 +17,9 @@ Cartoonify an Image with OpenCV in Python
  
  ## To run
  ~~~
- git clone
+ git clone 'https://github.com/raniyer/Cartoonifier.git'
  cd Cartoonifier
  python3 cartoonifier.py
  ~~~
+ 
  #### This project was made with <3 by Nidhi Raniyer
