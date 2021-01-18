@@ -3,11 +3,11 @@
 Cartoonify an Image with OpenCV in Python
 
 ## Importing the required modules
- Opencv
- easygui
- Numpy
- Imageio
- Matplotlib
+ Opencv<br>
+ easygui<br>
+ Numpy<br>
+ Imageio<br>
+ Matplotlib<br>
  OS
  
  ## What to expect
