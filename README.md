@@ -12,7 +12,7 @@ Cartoonify an Image with OpenCV in Python
  
  ## What to expect
  
- ![Uploading image](http://url/to/img.png)
- ![cartoonified version](http://url/to/img.png)
+ ![Uploading image](https://github.com/raniyer/Cartoonifier/blob/main/Asset/ss1.png)
+ ![cartoonified version](https://github.com/raniyer/Cartoonifier/blob/main/Asset/ss2.png)
  
  #### This project was made with <3 by Nidhi Raniyer
